@@ -28,12 +28,12 @@ Please feel free to do a pull request with any MPC software or resource you know
 
 ### Courses
 
-- [FHE-MPC Advanced Grad Course](https://www.cs.bris.ac.uk/home/nigel/FHE-MPC/) - `informal grad course' in FHE and MPC.
 - [Secure Computation](http://drona.csa.iisc.ernet.in/%7Earpita/SecureComputation15.html) - Secure Computation course offered by Indian Institute of Science covering secret sharing schemes, oblivious transfer to impossiblity results and zero-knowledge proofs.
 - [Secure Multi-Party Computation at Scale](https://piazza.com/bu/fall2017/cs591v1/home) - Boston University course that covers mathematical and algorithmic foundations of MPC, with an additional focus on deployment of state-of-the-art MPC technologies.
 
 ### Tutorials
 
+- [Multi-Party Computation: From Theory To Practice] (https://www.youtube.com/watch?v=pNNLAEygPQI) - Nigel Smart @ $MSFT 
 - [How To Simulate It](https://eprint.iacr.org/2016/046) - A Tutorial on the Simulation Proof Technique.
 - [OSU Bibliography](https://web.engr.oregonstate.edu/~rosulekm/scbib/index.php?n=Main.GettingStarted) - An Annotated Bibliography of Practical Secure Computation.
 - [The 1st BIU Winter School](http://cyber.biu.ac.il/event/the-1st-biu-winter-school/) - Introductory lectures for basic secure computation constructions.
